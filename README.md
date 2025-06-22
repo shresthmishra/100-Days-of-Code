@@ -6,7 +6,7 @@ This repository is dedicated to me learning Python and it's related technologies
 
 ---
 
-I'll keep updating every time I complete tasks for each day!
+I'll keep updating every time I complete tasks for each day! This is a commitment! Haha, get it? no? okay.
 
 ---
 
