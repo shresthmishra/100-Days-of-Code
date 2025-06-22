@@ -11,5 +11,3 @@ I'll keep updating every time I complete tasks for each day!
 ---
 
 Thank you!
-
-- Shresth
