@@ -56,3 +56,17 @@ for number in range(0, nr_numbers):
     password += random.choice(numbers)
 print(password)
 
+# Hard Level
+
+password_list = []
+for letter in range(0, nr_letters):
+    password_list.append(random.choice(letters))
+for symbol in range(0, nr_symbols):
+    password_list.append(random.choice(symbols))
+for number in range(0, nr_numbers):
+    password_list.append(random.choice(numbers))
+random.shuffle(password_list)
+password = ""
+for char in password_list:
+    password += char
+print(password)
