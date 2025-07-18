@@ -10,6 +10,6 @@ The function's body is indented below the line.
 """
 
 def my_function():
-    print("Hello, there")
+    print("Heyo, there")
 
 my_function()
