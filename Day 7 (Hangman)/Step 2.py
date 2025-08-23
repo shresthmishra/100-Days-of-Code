@@ -10,6 +10,7 @@ guess = input("Guess a letter: ").lower()
 placeholder = ""
 for _ in range(len(chosen_word)):
     placeholder += "_"
+print(placeholder)
 
 # TODO-2: Create a "display" that puts the guess letter in the right positions and _ in the rest of the string.
 
