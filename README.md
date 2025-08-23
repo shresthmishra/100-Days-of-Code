@@ -1,7 +1,6 @@
 # 100 Days of Code - The Complete Python Bootcamp
 
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
-![Challenge](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-brightgreen.svg)
 
 ## Description
 
