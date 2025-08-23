@@ -1,13 +1,14 @@
 # 100 Days of Code - The Complete Python Bootcamp
 
-This repository is dedicated to me learning Python and it's related technologies from scratch every day for a 100 days with the help of the course provided by Dr. Angela Yu on Udemy.
+![Language](https://img.shields.io/badge/Language-Python-blue.svg)
+![Challenge](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-brightgreen.svg)
+
+## Description
+
+This repository is dedicated to my journey of learning Python from scratch with the **"100 Days of Code"** course by Dr. Angela Yu.
+
+I'll be updating it every day as I complete the tasks and projects. This is my commitment to learning and consistent practice. Thank you for visiting!
 
 ---
 
-I'll keep updating every time I complete tasks for each day! This is a commitment! Haha, get it? no? okay.
-
----
-
-Thank you!
-
----
+<i>Thank you and have a good one!</i>
