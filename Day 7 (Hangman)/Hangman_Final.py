@@ -46,7 +46,7 @@ while not game_over:
 
         if lives == 0:
             game_over = True
-            print(f"***********************IT WAS {chosen_word}! YOU LOSE**********************")
+            print(f"***********************IT WAS {chosen_word.upper()}! YOU LOSE**********************")
 
     if "_" not in display:
         game_over = True
