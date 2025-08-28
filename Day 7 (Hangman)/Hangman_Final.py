@@ -8,7 +8,6 @@ print(logo)
 lives = 6
 
 chosen_word = random.choice(word_list)
-print(chosen_word)
 
 placeholder = ""
 word_length = len(chosen_word)
@@ -52,5 +51,5 @@ while not game_over:
     if "_" not in display:
         game_over = True
         print("****************************YOU WIN****************************")
-        
+
     print(stages[lives])
