@@ -30,9 +30,10 @@ def caesar():
         print(f"Here is the encoded result: {output_text}")
 
 
-if direction == "encode":
-    encrypt(original_text=text, shift_amount=shift)
-elif direction == "decode":
-    decrypt(original_text=text, shift_amount=shift)
-else:
-    print("Invalid input.")
+    if direction == "encode":
+        encrypt(original_text=text, shift_amount=shift)
+    elif direction == "decode":
+        decrypt(original_text=text, shift_amount=shift)
+    else:
+        print("Invalid input.")
+
