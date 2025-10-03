@@ -8,7 +8,6 @@ greet_with_name("Shresth", "Howdy") #Output: Howdy, Shresth.
 
 
 # Keyword Arguments
-
 def greet_with_location(name, location):
     print(f"Hello there, {name}.")
     print(f"How's it like in {location}?")
