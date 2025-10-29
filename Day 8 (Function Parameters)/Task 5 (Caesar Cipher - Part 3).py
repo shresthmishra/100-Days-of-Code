@@ -5,8 +5,6 @@ print(art.logo)
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 # TODO-2: What happens if the user enters a number/symbol/space?
-
-
 def caesar(original_text, shift_amount, encode_or_decode):
     if encode_or_decode == "decode":
         shift_amount *= -1
@@ -24,7 +22,6 @@ def caesar(original_text, shift_amount, encode_or_decode):
 
 
 # TODO-3: Can you figure out a way to restart the cipher program?
-
 should_continue = True
 
 while should_continue:
